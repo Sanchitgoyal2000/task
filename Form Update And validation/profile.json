@@ -1,0 +1,25 @@
+{
+  "profile": [
+    {
+      "name": "Sanchit Goyal",
+      "email": "sanchitgoyal2000@gmail.com",
+      "password": "kkkkkkkkkkkk",
+      "contact": "8756478346",
+      "id": 1
+    },
+    {
+      "name": "vanshika",
+      "email": "vanshikagoyal@gmail.com",
+      "password": "alcoholicvanshika",
+      "contact": "875647844",
+      "id": 2
+    },
+    {
+      "name": "sagar",
+      "email": "sagar@gmal.com",
+      "password": "e3e2wwwwwwwww",
+      "contact": "8756473333",
+      "id": 3
+    }
+  ]
+}
